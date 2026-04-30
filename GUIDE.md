@@ -24,3 +24,55 @@ Bold & iTalic
 <i>
 
 Superscript and Subscript
+
+<sup>  superscript = верхний индекс
+<sub>  subscript = нижний индекс
+
+Line breaks and horizontal rules 
+
+<br />
+<hr />
+
+Strong and Emphasis
+
+<strong>
+<em>
+
+Quotations
+
+<blockquote>
+<q>
+
+Abbreviations and Acronyms
+
+<abbr>
+<acronym>
+
+Citations and Definitions
+
+<cite>
+<dfn>
+
+Author details
+
+<address>
+
+Changes to Content
+
+<ins> 
+<del>
+<s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
